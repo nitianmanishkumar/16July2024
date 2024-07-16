@@ -11,7 +11,7 @@ public class Test1 {
 		int c=a+b;
 		
 		System.out.println("the add no is "+c);
-		System.out.println("the add no is ");
+		System.out.println("the add no m ");
 
 	}
 
